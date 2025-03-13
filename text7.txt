@@ -1,0 +1,2 @@
+ nuo ko pradedame komitinimą?
+ nuo git add .?
