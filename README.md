@@ -9,3 +9,4 @@ git pull - Atnaujina repozitorijos turinį
 laukiama daugiau info
 
 11 eilutė
+naujiena
