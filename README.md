@@ -5,3 +5,5 @@
 git clone REPOZITORIJOS_ADRESAS - Klonuoja pasirinktą repozitoriją
 
 git pull - Atnaujina repozitorijos turinį
+
+laukiama daugiau info
