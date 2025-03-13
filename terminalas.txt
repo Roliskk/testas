@@ -1,0 +1,17 @@
+comand prompt
+comand
+atsidarom toje dir, kurioj norim, kad veiktų
+cd - pakeičia direktoriją į nurodytą
+cd.. - direktorija aukščiau
+dir - išvardina visus failus esančius direktorijoje
+exit - išeina iš terminalo
+Keliai būna absoliutūs:
+C:\Windows\System32
+
+Realityvūs:
+.. - Reiškiadirektoriją aukščiau nuo esamos
+. - reiškia esamą direktoriją
+
+touch pavadinimas.txt - sukuria failą pagal nurodytą paavadinimą
+
+rm pavadinimas.txt - ištrina nurodytą failą
